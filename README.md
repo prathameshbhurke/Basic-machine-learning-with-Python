@@ -1,2 +1,6 @@
 # Basic-machine-learning-with-Python
-Basic statistics and regression
+Basic statistics
+K-means
+Linear regression
+Logistic regression
+
