@@ -1,6 +1,6 @@
-# Basic-machine-learning-with-Python
+# Coding-with-Python
 * Basic statistics
-* K-means
-* Linear regression
-* Logistic regression
+* Validate IP address
+* Check for a sub string in a given string
+* Check for alphnumeric, digits etc in a given string.
 
